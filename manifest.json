@@ -1,7 +1,7 @@
 {
   "name": "Storycamp - Basecamp Story Card Printer",
-  "version": "0.9.2",
-  "description": "Print story cards including acceptance criteria based on BaseCamp todo lists.",
+  "version": "0.9.3",
+  "description": "Print stories and acceptance criteria based on Basecamp to-do lists.",
   "icons": { 
     "16": "icon_16.png",
     "48": "icon_48.png",

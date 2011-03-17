@@ -69,14 +69,11 @@ function load_items(){
   $.get(document.location.pathname + '.xml', parse_todo_list);
 }
 
-
 function add_link(){
   $(".page_header_links").prepend(
     $("<a href='#'>Print Stories</a>").click(load_items)
-  );
-  
+  ); 
 }
-
 
 add_link();
 load_token();
